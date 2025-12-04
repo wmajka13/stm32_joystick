@@ -4,10 +4,6 @@ Projekt realizujący system sterowania i wizualizacji w czasie rzeczywistym. Wyk
 
 Celem projektu była implementacja wydajnej akwizycji danych z wykorzystaniem **DMA** i timerów sprzętowych, co pozwala na minimalizację obciążenia CPU.
 
-## Demo
-
-
-
 ## Kluczowe funkcjonalności
 
 ### Firmware (STM32)
