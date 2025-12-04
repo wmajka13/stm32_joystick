@@ -205,3 +205,29 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+
+# =======================================================
+# STM32 / CUBEIDE SECTION 
+# =======================================================
+
+Debug/
+Release/
+
+*.o
+*.d
+*.su
+*.elf
+*.bin
+*.hex
+*.map
+*.list
+*.ld
+
+Drivers/
+Middlewares/
+
+.settings/
+.metadata/
+*.launch
+.mxproject
